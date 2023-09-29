@@ -2,11 +2,11 @@
 
 <h3 align="center">A Full Stack Developer from Argentina</h3>
 
-- 🌱 I’m currently learning **Typescript and Python**
+- 🌱 I’m currently expanding my skills with Typescript, React, NodeJS, among others.
 
-- 👨‍💻 All of my projects are available at [https://portfolio-five-omega-49.vercel.app/](https://portfolio-five-omega-49.vercel.app/)
+- 👨‍💻 All of my projects are available at www.joaquincataldo.com.ar
 
-- 💬 Ask me about **React, Javascript, NodeJS, MySql, MongoDB**
+- 💬 Ask me about **React, Typescript, Javascript, Pyhthon, NodeJS, MySql, MongoDB**
 
 - 📫 How to reach me **jqncataldo@gmail.com**
 
