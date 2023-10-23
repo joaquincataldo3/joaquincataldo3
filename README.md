@@ -2,7 +2,7 @@
 
 <h3 align="center">A Full Stack Developer from Argentina</h3>
 
-- 🌱 I’m currently expanding my skills with Typescript, React, NodeJS, among others.
+- 🌱 I’m currently expanding my skills with NodeJS, NestJS, Typescript, React, among others.
 
 - 👨‍💻 All of my projects are available at www.joaquincataldo.com.ar
 
