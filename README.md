@@ -1,12 +1,10 @@
 ### Hi there 👋
 
-<h3 align="center">A Full Stack Developer from Argentina</h3>
+<h3 align="center">I'm Full Stack Developer, Argentina based</h3>
 
 - 🌱 I’m currently expanding my skills with NodeJS, NestJS, Typescript, React, among others.
 
-- 👨‍💻 All of my projects are available at www.joaquincataldo.com.ar
-
-- 💬 Ask me about **React, Typescript, Javascript, Pyhthon, NodeJS, MySql, MongoDB**
+- 👨‍💻 All of my projects are available here and in www.joaquincataldo.com.ar
 
 - 📫 How to reach me **jqncataldo@gmail.com**
 
