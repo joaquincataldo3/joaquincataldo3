@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-<h3 align="center">I'm Backend Full Stack Developer, Argentina based</h3>
+<h3 align="center">I'm a Full Stack Developer, Argentina based</h3>
 
-- 🌱 I’m currently expanding my skills with NestJS, Express, Typescript, React and Python.
+- 🌱 I’m currently expanding my skills with .NET, NestJS, React, Typescript, React and Python.
 
 - 👨‍💻 All of my projects are available here and in www.joaquincataldo.com.ar
 
