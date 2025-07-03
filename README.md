@@ -2,8 +2,6 @@
 
 <h3 align="center">I'm a Full Stack Developer, Argentina based</h3>
 
-- 🌱 I’m currently working for Scriptme.io a tool to transcribe and subtitle audio and video with artificial intelligence 
-
 - 👨‍💻 Stack: Angular, Python, Typescript, NodeJS, AWS Api Gateway, AWS Lambda, AWS DynamoDb, Amazon Redis, MySQL.
 
 - 📫 How to reach me **jqncataldo@gmail.com**
