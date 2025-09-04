@@ -2,7 +2,7 @@
 
 <h3 align="center">I'm a Full Stack Developer, Argentina based</h3>
 
-- 👨‍💻 Stack: Angular, Python, Typescript, NodeJS, AWS Api Gateway, AWS Lambda, AWS DynamoDb, Amazon Redis, MySQL.
+- 👨‍💻 Stack: Angular, Electron, React, Typescript, NodeJS, AWS Api Gateway, AWS Lambda, AWS DynamoDb, Amazon Redis, MySQL, DynamoDB.
 
 - 📫 How to reach me **jqncataldo@gmail.com**
 
